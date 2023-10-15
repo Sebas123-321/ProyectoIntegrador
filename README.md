@@ -1,2 +1,3 @@
 # ProyectoIntegrador
-Proyecto integrador para la formación en Python
+nombre = input('¿Cómo te llamas? ')
+print('Hola', nombre, '\n Bienvenido')
